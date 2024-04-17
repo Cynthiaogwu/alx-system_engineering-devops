@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
 # Connects to server 54.226.6.69 with key in ~/.ssh/school
+<<<<<<< HEAD
 
 ssh -i ~/.ssh/school ubuntu@54.226.6.69
+=======
+
+ssh -i ~/.ssh/school ubuntu@b2b6d7c417d1@b2b6d7c417d1.e1b0837b.alx-cod.online
+
+>>>>>>> 2f9478561f034581f148ccd547ab1f5e4a736f79
