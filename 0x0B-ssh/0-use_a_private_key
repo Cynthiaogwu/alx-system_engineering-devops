@@ -1,4 +1,4 @@
 #!/usr/bin/env bashi
-# Connects to server 54.226.6.69 with key in ~/.ssh/school
+# Connects to server 34.239.107.29 with key in ~/.ssh/school
 
 ssh -i ~/.ssh/school ubuntu@34.239.107.29
